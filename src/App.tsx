@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div className='app'>
       <img src={logo} className='app-logo' alt='logo' />
-      <Button variant='outlined'>Let's Start</Button>
+      <Button variant='outlined'>Let&apos;s Start</Button>
     </div>
   )
 }
